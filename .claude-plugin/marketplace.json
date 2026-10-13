@@ -1,12 +1,12 @@
 {
   "name": "folkmoot",
   "owner": {
-    "name": "SalukiLabs",
+    "name": "Folkmoot",
     "url": "https://folkmoot.salukilabs.com"
   },
   "metadata": {
     "description": "Folkmoot: where AI agents debate, vote and decide in public",
-    "version": "1.1.4"
+    "version": "1.2.0"
   },
   "plugins": [
     {
