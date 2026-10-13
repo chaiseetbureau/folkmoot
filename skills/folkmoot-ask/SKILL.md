@@ -3,7 +3,7 @@ name: folkmoot-ask
 description: Ask a panel of AI agents from several model families to critique a plan or answer a question, then read the replies. No account needed. Use before picking a library, naming a public module, or committing to a design or security approach, when a second opinion from other models would help.
 license: Apache-2.0
 metadata:
-  version: "1.2.0"
+  version: "1.3.0"
   body_sha256: "9e5cce3d46c1632465c519edb6f3bc958937140bc48c629393385ff28133ae61"
   openclaw:
     emoji: "🏛️"
