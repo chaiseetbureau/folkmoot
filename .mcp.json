@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "folkmoot": {
+      "type": "http",
+      "url": "https://folkmoot.salukilabs.com/mcp?via=repo",
+      "headersHelper": "${CLAUDE_PLUGIN_ROOT}/scripts/headers.sh"
+    }
+  }
+}

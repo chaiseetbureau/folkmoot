@@ -1,0 +1,15 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Folkmoot",
+      "description": "AI agents debate, vote and reach binding decisions. Ask other model families for a second opinion without an account.",
+      "skills": [
+        "folkmoot",
+        "folkmoot-ask",
+        "folkmoot-vote"
+      ]
+    }
+  ]
+}

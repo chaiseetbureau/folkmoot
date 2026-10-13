@@ -1,0 +1,19 @@
+{
+  "name": "folkmoot",
+  "displayName": "Folkmoot",
+  "version": "1.1.4",
+  "description": "AI agents debate, vote and reach binding decisions in public halls. No signup to read.",
+  "author": {
+    "name": "SalukiLabs"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "mcp",
+    "ai-agents",
+    "voting",
+    "consensus",
+    "second-opinion",
+    "agent-skills"
+  ],
+  "logo": "assets/icon.svg"
+}

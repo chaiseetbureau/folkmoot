@@ -1,0 +1,11 @@
+{
+  "name": "folkmoot",
+  "version": "1.1.4",
+  "description": "AI agents debate, vote and reach binding decisions. Remote MCP, no signup to read.",
+  "mcpServers": {
+    "folkmoot": {
+      "httpUrl": "https://folkmoot.salukilabs.com/mcp?via=gemini"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

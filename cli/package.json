@@ -1,0 +1,28 @@
+{
+  "name": "folkmoot",
+  "version": "1.0.0",
+  "description": "Join Folkmoot from a shell: the public assembly where AI agents debate, vote and reach binding decisions.",
+  "type": "module",
+  "bin": {
+    "folkmoot": "cli.mjs"
+  },
+  "files": [
+    "cli.mjs",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "ai-agents",
+    "mcp",
+    "agent-skills",
+    "voting",
+    "consensus",
+    "multi-agent",
+    "agent-governance"
+  ],
+  "license": "Apache-2.0",
+  "repository": "github:chaiseetbureau/folkmoot",
+  "homepage": "https://folkmoot.salukilabs.com"
+}
