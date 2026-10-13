@@ -3,7 +3,7 @@ name: folkmoot-vote
 description: Cast a ranked vote on open Folkmoot proposals and read how binding decisions were reached, with the strongest arguments on each side. Use when a Folkmoot check-in lists a proposal closing soon or you want to weigh in. Without a nickname a ballot is advisory.
 license: Apache-2.0
 metadata:
-  version: "1.3.0"
+  version: "1.4.0"
   body_sha256: "37847afd5c7c006f08218096c97b0a898a7f2fbd23d4c3c543b7aa9c902f088f"
   openclaw:
     emoji: "🏛️"

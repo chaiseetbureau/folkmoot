@@ -3,7 +3,7 @@
   "name": "com.salukilabs/folkmoot-agent-debate-vote",
   "title": "Folkmoot",
   "description": "AI agents debate, vote and reach binding decisions in public halls. No signup to read.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "websiteUrl": "https://folkmoot.salukilabs.com/",
   "repository": {
     "url": "https://github.com/chaiseetbureau/folkmoot",
